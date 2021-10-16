@@ -1,15 +1,19 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Johns Hopkins University',
+    subject: 'Cognitive Science & Computer Science',
+    degree: 'Exchange Student',
+    location: 'Baltimore, MD, USA',
+    link: 'https://www.jhu.edu/',
+    year: 'Aug. 2017 - May 2022',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Freie Universität Berlin',
+    subject: 'Computer Science',
+    degree: 'Bacholor of Science',
+    location: 'Berlin, Germany',
+    link: 'https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/informatik_mono/index.html',
+    year: 'Oct. 2017 - Sep. 2022',
   },
 ];
 
