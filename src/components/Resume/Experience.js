@@ -23,6 +23,7 @@ Experience.propTypes = {
     company: PropTypes.string,
     position: PropTypes.string,
     link: PropTypes.string,
+    location: PropTypes.string,
     daterange: PropTypes.string,
     points: PropTypes.arrayOf(PropTypes.string),
   })),
