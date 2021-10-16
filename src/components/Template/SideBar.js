@@ -12,14 +12,16 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Gabriel Kressin Palacios</h2>
+        <h2>Gabriel Kressin</h2>
         <p><a href="mailto:gabriel.kressin@fu-berlin.de">gabriel.kressin@fu-berlin.de</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Gabriel. I like thinking about the Mind, Brain and Machines.
+      <p>Hi, I am a Computer Science student with a deep passion for Cognitive Science.
+        I love thinking about the mind, brain and machines. I am determined to
+        contribute to Artificial Intelligence research.
       </p>
       <ul className="actions">
         <li>
