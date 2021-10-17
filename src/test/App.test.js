@@ -8,7 +8,7 @@ import { render, screen } from '@testing-library/react';
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
-import About from '../pages/Activities';
+import Activities from '../pages/Activities';
 import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
