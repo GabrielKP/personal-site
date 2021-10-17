@@ -13,7 +13,7 @@
 	#header {
 		@include vendor('display', 'flex');
 		@include vendor('justify-content', 'space-between');
-		background-color: _palette(bg);
+		background-color: _palette(bg-nav);
 		border-bottom: solid 1px _palette(border);
 		height: 3.5em;
 		left: 0;
@@ -22,6 +22,7 @@
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
+		color: _palette(color-nav);
 
 		a {
 			color: inherit;
@@ -195,6 +196,7 @@
 	}
 
 	#header .index-link {
+		color: _palette(color-nav);
 		z-index: 3;
 	}
 
