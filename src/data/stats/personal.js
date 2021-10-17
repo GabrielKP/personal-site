@@ -47,6 +47,11 @@ const data = [
     value: '42',
   },
   {
+    label: 'Amount of ethnicity-declaration forms not allowing to tick hispanic AND black AND white',
+    key: 'ethnicity_forms',
+    value: 'Too many',
+  },
+  {
     label: 'Website last updated at',
     key: 'pushed_at',
     link: 'https://github.com/GabrielKP/gabrielkp.github.io/commits',

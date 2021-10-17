@@ -23,16 +23,10 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/about">About Me</Link></h2>
-          <p>Welcome to my personal website. This is me in {count} words.</p>
+          <p>Welcome to my website. This is me in {count} words.
+          </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
-      </p>
       <ReactMarkdown
         source={markdown}
         renderers={{
