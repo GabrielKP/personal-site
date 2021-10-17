@@ -19,13 +19,13 @@ import Stats from '../pages/Stats';
 const pages = [
   {
     route: '/',
-    heading: 'About this site',
+    heading: 'About me',
     component: Index,
   },
   {
-    route: '/about',
-    heading: 'About Me',
-    component: About,
+    route: '/activities',
+    heading: 'Activities',
+    component: Activities,
   },
   {
     route: '/projects',
