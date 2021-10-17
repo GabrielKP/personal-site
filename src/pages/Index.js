@@ -22,7 +22,7 @@ const Index = () => (
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/about">About Me</Link></h2>
+          <h2 data-testid="heading"><Link to="/about">About me</Link></h2>
           <p>Welcome to my website. This is me in {count} words.
           </p>
         </div>
