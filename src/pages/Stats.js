@@ -17,6 +17,13 @@ const Stats = () => (
         </div>
       </header>
       <Personal />
+      <p>This website was just recently built based on
+        <a href="https://mldangelo.com/">Michael D&apos;Angelo&apos;s website</a>.
+        Please <a href="/contact">contact me</a> if you see any mistakes or issues!
+      </p>
+      <p> Source of the website available
+        <a href="https://github.com/gabrielkp/gabrielkp.github.io"> here</a>.
+      </p>
     </article>
   </Main>
 );

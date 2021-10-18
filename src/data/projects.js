@@ -1,47 +1,47 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Representation Ensembling & Machine Artificial Grammar Learning',
+    subtitle: 'A Jupyter Notebook containing machine AGL and representation ensembling',
+    link: 'https://github.com/GabrielKP/continual-learning',
+    image: '/images/projects/agl_representation.jpg',
+    date: 'Spring & Summer 2021, JHU',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'With the premise that humans employ different \'expert\' networks based on '
+      + 'context, I was involved into sketching and implementing first drafts of'
+      + 'a novel algorithm enabling Transfer and Continual Learning. First, we '
+      + 'chose the Artificial Grammar Learning domain, but I moved on to implement '
+      + 'a test environment for CIFAR10x10 (based on CIFAR100).',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Vice Versa App',
+    subtitle: 'A debating application for the classroom.',
+    link: 'https://github.com/GabrielKP/vice-versa',
+    image: '/images/projects/vvapp.jpg',
+    date: 'Ongoing Project',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'A debating application for schools. The teacher can use the App to '
+      + 'initiate meaningful discussions, teaching the children (1) how to debate '
+      + 'and (2) other opinions in a respectful and moderated environment.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Local Learning',
+    subtitle: 'A Jupyter Notebook investigating local learning rules.',
+    link: 'https://github.com/GabrielKP/MMB-Project',
+    image: '/images/projects/local_learning.jpg',
+    date: 'Fall 2020, JHU',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'A Jupyter Notebook investigating local learning rules: Hebbs Rule, '
+      + 'Hebbs Rule with regularization and a Oja\'s Rule.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Elephant Fish',
+    subtitle: 'A Recurrent Neural Network to predict fish trajectories',
+    link: 'https://github.com/GabrielKP/Elephant-Fish',
+    image: '/images/projects/elephant_fish.jpg',
+    date: 'Ongoing Project, FU-Berlin',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'A simulation of elephant-nose fish trajectories with a RNN.',
   },
 ];
 

@@ -34,7 +34,6 @@ const Index = () => (
         }}
         escapeHtml={false}
       />
-      <p> Source available <a href="https://github.com/gabrielkp/gabrielkp.github.io">here</a>.</p>
     </article>
   </Main>
 );

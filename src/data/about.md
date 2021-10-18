@@ -1,9 +1,4 @@
 
-
-# THIS WEBSITE IS UNDER CONSTRUCTION.
-
-**The activities and projects page still are unfinished**
-
 # Intro
 
 I am a Computer Science student that is deeply passionate about discovering and
