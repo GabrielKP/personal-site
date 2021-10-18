@@ -22,8 +22,8 @@ const Index = () => (
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/about">About me</Link></h2>
-          <p>Welcome to my website. This is me in {count} words.
+          <h2 data-testid="heading"><Link to="/">About me</Link></h2>
+          <p>Welcome to Gabriel Kressin&apos;s website. This is me in {count} words.
           </p>
         </div>
       </header>
