@@ -5,13 +5,14 @@ const data = [
     link: 'http://viceversaedu.de',
     subtitle: 'An organization fighing polarization',
     image: '/images/activities/vvlogo.jpg',
-    date: 'June 2020 - Present',
+    date: 'June 2020 - December 2021',
     desc:
     'Vice Versa aims at contributing in the creation of an open and connected '
     + 'society of mutual understanding, tolerance, and respect for diverse opinions. '
     + 'Our current focus lies in creating a debate App for schools. '
     + 'The project came to life during Democracy Challenge hosted by Fulbright '
-    + 'Germany and the DO-School.',
+    + 'Germany and the DO-School. After working together for more than one year'
+    + 'we decided to lay the project to rest due to time-constraints.',
   },
   {
     title: 'Rowing Trainer',

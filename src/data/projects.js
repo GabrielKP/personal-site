@@ -14,15 +14,16 @@ const data = [
       + 'a test environment for CIFAR10x10 (based on CIFAR100).',
   },
   {
-    title: 'Vice Versa App',
-    subtitle: 'A debating application for the classroom.',
-    link: 'https://github.com/GabrielKP/vice-versa',
-    image: '/images/projects/vvapp.jpg',
-    date: 'Ongoing Project',
+    title: 'Thought Paper on Marr\' levels.',
+    subtitle: 'A small essay on the inpedence between implementatinal and algorithmic layer',
+    link: 'https://drive.google.com/file/d/1A9IwyFUlSLC5mZMGz0dygJZ7lSDUOTAp/view?usp=sharing',
+    image: '/images/projects/thought_paper.jpg',
+    date: 'Fall 2020, JHU',
     desc:
-      'A debating application for schools. The teacher can use the App to '
-      + 'initiate meaningful discussions, teaching the children (1) how to debate '
-      + 'and (2) other opinions in a respectful and moderated environment.',
+      'In 1982 Marr proposed to look at processes on three levels: the computation'
+      + ' level, the algorithm and the implementation level. Marr sets forth that'
+      + ' those levels are only loosely dependent on each other, this essay questions'
+      + ' that idea.',
   },
   {
     title: 'Local Learning',
@@ -39,7 +40,7 @@ const data = [
     subtitle: 'A Recurrent Neural Network to predict fish trajectories',
     link: 'https://github.com/GabrielKP/Elephant-Fish',
     image: '/images/projects/elephant_fish.jpg',
-    date: 'Ongoing Project, FU-Berlin',
+    date: 'FU-Berlin',
     desc:
       'A simulation of elephant-nose fish trajectories with a RNN.',
   },
