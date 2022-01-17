@@ -34,7 +34,12 @@ const skills = [
   },
   {
     title: 'Numpy',
-    competency: 3,
+    competency: 4,
+    category: ['Data Science', 'Data Engineering', 'Python'],
+  },
+  {
+    title: 'Numba',
+    competency: 2,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
@@ -59,7 +64,7 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 3,
+    competency: 2,
     category: ['Languages'],
   },
   {
@@ -74,7 +79,7 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 2,
+    competency: 3,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
