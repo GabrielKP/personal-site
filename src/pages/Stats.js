@@ -17,8 +17,8 @@ const Stats = () => (
         </div>
       </header>
       <Personal />
-      <p>This website was just recently built based on
-        <a href="https://mldangelo.com/">Michael D&apos;Angelo&apos;s website</a>.
+      <p>This website was built based on <a href="https://mldangelo.com/">Michael D&apos;Angelo&apos;s website</a>,
+        which in turn is based on <a href="https://html5up.net/future-imperfect">future-imperfect</a>.
         Please <a href="/contact">contact me</a> if you see any mistakes or issues!
       </p>
       <p> Source of the website available
