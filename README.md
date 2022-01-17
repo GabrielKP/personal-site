@@ -30,6 +30,7 @@ npm install
 Run the following command to build the react application and serve it with fast refresh:
 
 ```bash
+nvm use 14
 npm start
 ```
 
