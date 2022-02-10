@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Johns Hopkins University',
+    school: 'Johns Hopkins University, Exchange Student',
     subject: 'Cognitive Science & Computer Science',
     degree: 'Exchange Student',
     location: 'Baltimore, MD, USA',
     link: 'https://www.jhu.edu/',
-    year: 'Aug. 2017 - May 2022',
+    year: 'Aug. 2020 - Aug. 2021',
   },
   {
-    school: 'Freie Universität Berlin',
+    school: 'Freie Universität Berlin, Bachelor of Science (not completed yet)',
     subject: 'Computer Science',
     degree: 'Bacholor of Science',
     location: 'Berlin, Germany',
