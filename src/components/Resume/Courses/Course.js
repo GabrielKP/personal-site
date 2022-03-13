@@ -7,6 +7,9 @@ const Course = ({ data, last }) => (
       <h4 className="course-number">{data.number}:</h4>
       <p className="course-name">{data.title}</p>
     </a>
+    <a target="_blank" rel="noopener noreferrer" href={data.link_university}>
+      <p className="course-uni"> ({data.university})</p>
+    </a>
     {!last && <div className="course-dot"><p className="course-name"> &#8226;</p></div>}
   </li>
 );
@@ -16,6 +19,8 @@ Course.propTypes = {
     link: PropTypes.string.isRequired,
     number: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
+    university: PropTypes.string.isRequired,
+    link_university: PropTypes.string.isRequired,
   }).isRequired,
   last: PropTypes.bool,
 };
